@@ -266,7 +266,7 @@ const cn = {
       },
       IsChecking: "正在检查…",
       Check: "重新检查",
-      NoAccess: "输入 API Key 或访问密码查看余额",
+      NoAccess: "输入 API Key 查询余额（目前仅支持“sess-”开头的api查询余额）",
     },
 
     Access: {
