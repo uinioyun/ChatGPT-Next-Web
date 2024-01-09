@@ -1,3 +1,5 @@
+https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fuinioyun%2FChatGPT-Next-Web&env=OPENAI_API_KEY&env=CODE&env=ENABLE_BALANCE_QUERY&project-name=chatgpt-next-web&repository-name=ChatGPT-Next-Web
+
 <div align="center">
 <img src="./docs/images/head-cover.png" alt="icon"/>
 
